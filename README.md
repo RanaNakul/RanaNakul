@@ -9,7 +9,7 @@ A developer passionate about building scalable web and mobile applications.<br><
 
 
 <p align="center">
-  <img src="banner.jfif" width="800"/>
+  <img src="banner.jfif" width="100%"/>
 </p>
 
 
