@@ -1,4 +1,4 @@
-🚀 Nakul Rana
+<h1>🚀 Nakul Rana</h1>
 
 💻 Web & Mobile Developer | React • Next.js • React Native
 ⚡ Building modern apps with Web3, AI APIs, and real-time technologies.
