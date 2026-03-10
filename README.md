@@ -7,6 +7,10 @@
 # 💫 About Me:
 A developer passionate about building scalable web and mobile applications.<br><br>⚛️ Frontend developer specializing in React.js & Next.js<br><br>📱 Building React Native mobile apps<br><br>🌐 Interested in Web3, Solana, and decentralized apps<br><br>🧠 Always exploring new APIs, developer tools, and system design
 
+<p align="center">
+  <img src="banner.png" width="800"/>
+</p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nakul_rana_08) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NakulRana__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nakulrana2601@gmail.com) 
